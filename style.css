@@ -62,6 +62,7 @@ a:hover{
 .logo{
     font-size: 2rem;
 }
+
 .logo:hover {
     cursor:default;
 }
@@ -84,6 +85,7 @@ a:hover{
     height: 24px;
     width: 30px;
     cursor:pointer;
+    
 }
 
 .hamburger-icon span{
@@ -95,7 +97,7 @@ a:hover{
 
 .menu-links{
     position: absolute;
-    top: 100%;
+    top: 12%;
     right: 0;
     background-color: white;
     width: fit-content;
